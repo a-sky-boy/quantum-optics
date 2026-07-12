@@ -128,3 +128,5 @@ function F = matrix_function_x(x, fhandle)
 
     F = (F + F')/2;  % remove tiny numerical non-Hermitian part
 end
+
+
